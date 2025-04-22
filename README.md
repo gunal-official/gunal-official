@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Gunal D
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python, R, SQL, and various data science tools.
-- 💞️ I’m looking to collaborate on projects that involve predictive modeling, data visualization, and AI-driven solutions 💼.
-- 📫 How to reach me (https://www.linkedin.com/in/gunal-d))
+- 💞️ I’m looking to collaborate on projects that involve predictive modelling, data visualization, and AI-driven solutions 💼.
+- 📫 How to reach me (https://www.linkedin.com/in/gunal-d)
 - ⚡ Fun fact: I love exploring the culinary world and experimenting with fusion recipes in my free time 🍽️.
 
 ----------------------------------------------------------------------------------------------------
