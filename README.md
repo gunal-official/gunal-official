@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gunal D
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python, R, SQL, and various data science tools.
+- 🌱 I’m currently learning Python, SQL, and various data science tools.
 - 💞️ I’m looking to collaborate on projects that involve predictive modelling, data visualization, and AI-driven solutions 💼.
 - 📫 How to reach me (https://www.linkedin.com/in/gunal-d)
 - ⚡ Fun fact: I love exploring the culinary world and experimenting with fusion recipes in my free time 🍽️.
@@ -9,7 +9,7 @@
 
 # Hi there, I'm Gunal! 👋
 
-## 🌟 Data Scientist | Machine Learning Enthusiast | Data Explorer
+## 🌟 Data Scientist
 
 ----------------------------------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@
 - 📊 I am passionate about turning data into actionable insights.
 - 📚 Continuously learning and upskilling in the data science field.
 - 🌱 Currently diving deep into NLP,Computer Vision, Big Data Analytics,and Deep Learning.
-- 🛠️ Skilled in Python, R, SQL, and various data science tools.
+- 🛠️ Skilled in Python, SQL, and various data science tools.
 - 📈 Lover of data visualization and storytelling.
 
 ### Pinned Repositories
@@ -39,14 +39,15 @@
 - **Fraud Detection**: Implemented a classifier to detect fraudulent transactions.
 
 ### Skills
-- **Programming**: Python, R, SQL
+- **Programming**: Python, SQL
 - **Libraries/Frameworks**: Pandas, NumPy, Scikit-Learn, TensorFlow, Keras
 - **Data Visualization**: Matplotlib, Seaborn, Plotly
 - **Databases**: MySQL, PostgreSQL
 - **Tools**: Jupyter Notebook, Tableau, Power BI
 
 ### Certifications
-- **Data Science Professional Certificate** - [Issuing Organization]
+- **Data Science Professional Certificate** - [IBM]
+- **Generative AI for Data Scientists** - (https://www.coursera.org/account/accomplishments/specialization/357ICTKSMTAM)
 - **Machine Learning Specialization** - [Issuing Organization]
 
 ### GitHub Stats
