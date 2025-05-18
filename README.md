@@ -46,10 +46,11 @@
 - **Tools**: Jupyter Notebook, Tableau, Power BI
 
 ### Certifications
-- **Data Science Professional Certificate** - [IBM]
-- **Generative AI for Data Scientists** - (https://www.coursera.org/account/accomplishments/specialization/357ICTKSMTAM)
-- **Machine Learning Specialization** - [Issuing Organization]
-
+- **Data Science Professional Certificate** - [IBM](https://www.credly.com/badges/cb3ac128-1de6-480e-8aee-f82e304c8107)
+- **Generative AI for Data Scientists** - [IBM](https://www.coursera.org/account/accomplishments/specialization/357ICTKSMTAM)
+- **Google Data Analytics Professional Certificate** - [Google](https://www.credly.com/badges/ddd70dbd-77f4-4d1b-b2a2-d3c49fe1a7c7/)
+- **AWS Cloud Solutions Architect** - [AWS](https://www.coursera.org/account/accomplishments/specialization/SDDHEELVOOPT)
+  
 ### GitHub Stats
 ---
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
@@ -57,6 +58,4 @@
 
 ### Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/gunal-d)
-- [Twitter](https://twitter.com/gunalofficialid)
-- [Portfolio](https://yourportfolio.com)
 
